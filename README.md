@@ -1,4 +1,4 @@
-# thirdweb Railway [![Template](https://img.shields.io/badge/Railway-Template-853BCE.svg?logo=railway&labelColor=181717&longCache=true&style=flat-square)](https://railway.app?referralCode=KN9JqT)
+# thirdweb Insight [![Template](https://img.shields.io/badge/Railway-Template-853BCE.svg?logo=railway&labelColor=181717&longCache=true&style=flat-square)](https://railway.app?referralCode=KN9JqT)
 
 Simple & customizable endpoints for querying rich blockchain data.
 
